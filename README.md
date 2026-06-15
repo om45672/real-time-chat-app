@@ -1,5 +1,17 @@
 # Advanced Chat Application
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: OM PATEL
+
+*INTERN ID*: CTIS8942
+
+*DOMAIN*: MERN STACK WEB DEVELOPMENT
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 It is a real-time application built using the MERN stack. It provides users with a seamless and interactive chatting experience.
 
 ## Features
